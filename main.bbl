@@ -140,8 +140,8 @@
       \strng{authorbibnamehash}{ce33c060f45bf9addaa92b680df3f221}
       \strng{authornamehash}{ce33c060f45bf9addaa92b680df3f221}
       \strng{authorfullhash}{ce33c060f45bf9addaa92b680df3f221}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{bpb.de}
@@ -153,6 +153,46 @@
       \endverb
       \verb{url}
       \verb https://www.bpb.de/themen/deutsche-einheit/lange-wege-der-deutschen-einheit/47436/einkommen-und-vermoegen-wachsende-ungleichheiten/#node-content-title-5
+      \endverb
+    \endentry
+    \entry{kohlrausch_zucco_hövermann_2020}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e0ca25b8ae3c14dea78a6ac4f58043b1}{%
+           family={Kohlrausch},
+           familyi={K\bibinitperiod},
+           given={Bettina},
+           giveni={B\bibinitperiod}}}%
+        {{hash=1d1fad5af353a84bee05f427da227a3e}{%
+           family={Zucco},
+           familyi={Z\bibinitperiod},
+           given={Aline},
+           giveni={A\bibinitperiod}}}%
+        {{hash=63222c891a840e2afb4b9bb18ff1033b}{%
+           family={Hövermann},
+           familyi={H\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{cfb833c96a61ecfe85f8bd0b35437c30}
+      \strng{fullhash}{cfb833c96a61ecfe85f8bd0b35437c30}
+      \strng{bibnamehash}{cfb833c96a61ecfe85f8bd0b35437c30}
+      \strng{authorbibnamehash}{cfb833c96a61ecfe85f8bd0b35437c30}
+      \strng{authornamehash}{cfb833c96a61ecfe85f8bd0b35437c30}
+      \strng{authorfullhash}{cfb833c96a61ecfe85f8bd0b35437c30}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Verteilungsbericht 2020}
+      \field{month}{11}
+      \field{title}{Die Einkommensungleichheit wird durch die Corona-Krise noch weiter verstärkt}
+      \field{volume}{62}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.boeckler.de/pdf/p_wsi_report_62_2020.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.boeckler.de/pdf/p_wsi_report_62_2020.pdf
       \endverb
     \endentry
   \enddatalist
